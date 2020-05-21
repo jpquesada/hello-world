@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
-
 Playing with GitHub.
+
+Juan P. QUESADA
